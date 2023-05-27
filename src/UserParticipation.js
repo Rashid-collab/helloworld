@@ -38,6 +38,8 @@ const PollDisp=()=>{
             <option1.Provider value ={op1}{...count1}>
                 <PollDisp/>
             </option1.Provider>
+
+            <h4>Continue</h4>
             
         </>
 
